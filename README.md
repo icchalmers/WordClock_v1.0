@@ -4,7 +4,7 @@
 
 This repo is here largely for my own reference, and maybe as inspiration for others. 
 
-I'm in the process of making V2.0 as part of Fab Academy 2015. You can follow the process on [my class website](http://fabacademy.org/archives/2015/eu/students/chalmers.iain/index.html). The content is also mirrored to [my GitHub Pages site](http://icchalmers.github.io/).
+I'm in the process of making V2.0 as part of [Fab Academy 2015](http://www.fabacademy.org/) at [Fab Lab Strathclyde](http://www.strath.ac.uk/fablab/). You can follow the process on [my class website](http://fabacademy.org/archives/2015/eu/students/chalmers.iain/index.html). The content is also mirrored to [my GitHub Pages site](http://icchalmers.github.io/).
 
 When V2.0 is ready, I will link to it here.
 
